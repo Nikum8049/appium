@@ -1,0 +1,7 @@
+run appium
+cmd 
+write appium enter, process start,
+open android deveice manager , run device,
+open appium inspector, and run write require data for android connection,
+
+open intellij , run test

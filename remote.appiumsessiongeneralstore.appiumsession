@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "demo"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "E:\\appium_learning\\src\\test\\java\\General-Store.apk"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformName",
+      "value": "android"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UiAutomator2"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "ssl": false,
+      "hostname": "",
+      "port": ""
+    },
+    "advanced": {
+      "allowUnauthorized": false,
+      "useProxy": false
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "mobitru": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
